@@ -79,12 +79,30 @@ https://github.com/user-attachments/assets/cc45f236-9789-42f2-b0f9-7b505bb29d93
 ## Video Demo
 
 <div align="center">
+
+
+# Browser App
+
+
+<div align="center">
+
+   <img src="https://github.com/user-attachments/assets/af9a5814-0d24-4db2-b971-7509563165a6" height="500">
+   <img src="https://github.com/user-attachments/assets/52e5638d-45cc-432b-a035-e2cd5ff5fd4b" height="500">
+</div>
+
+<h1></h1>
+
+## Video Demo
+
+<div align="center">
   
 
-
-https://github.com/user-attachments/assets/366980a1-896d-4e3a-83da-85b6b9e4daa4
+https://github.com/user-attachments/assets/f20e86a7-878f-44cf-be25-006671fab3cf
 
 
 
 </div>
+  
+
+
   
