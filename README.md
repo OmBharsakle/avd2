@@ -79,6 +79,17 @@ https://github.com/user-attachments/assets/cc45f236-9789-42f2-b0f9-7b505bb29d93
 ## Video Demo
 
 <div align="center">
+  
+
+
+
+https://github.com/user-attachments/assets/80e77386-a815-470d-bcf0-26815abf1a8b
+
+
+
+
+
+</div>
 
 
 # Browser App
